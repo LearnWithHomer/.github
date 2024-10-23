@@ -4,6 +4,7 @@ At **Begin**, we’re on a mission to bring the highest quality education to you
 
 ### What We’re About 💻🚀
 
+|   |   |
 |---|---|
 | **🧠 TODO**        | Insert text here...    |
 | **🤝 TODO**        | Insert text here...    |
